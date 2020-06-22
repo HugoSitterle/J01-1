@@ -1,2 +1,3 @@
 ISCC session 2020
 $hurel, $timothy
+Hugo Sitterle
